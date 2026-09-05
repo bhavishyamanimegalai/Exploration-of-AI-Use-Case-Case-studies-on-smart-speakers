@@ -35,5 +35,5 @@ The basic working process of an AI-enabled smart speaker is:
 9. Finally, the speaker delivers the response to the user.
 
 
-**#result**
+### result
 Thus, the working principle of an AI-enabled smart speaker was studied successfully. It was observed that Artificial Intelligence technologies such as Speech Recognition, Natural Language Processing (NLP), Machine Learning, Intent Detection, and Text-to-Speech work together to understand user voice commands and provide appropriate responses or perform the required actions.
